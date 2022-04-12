@@ -1,2 +1,2 @@
-# TienyRepo
-A Repo just for Studying
+# AlgorithmPractice
+A Repo just for Algorithm Practice
